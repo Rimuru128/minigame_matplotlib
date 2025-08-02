@@ -6,6 +6,7 @@ import numpy as np
 import random
 
 # Set up figure
+
 fig, ax = plt.subplots()
 plt.subplots_adjust(bottom=0.2)
 ax.set_xlim(0, 100)
